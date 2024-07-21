@@ -1,4 +1,4 @@
-# ChatBot Deployment using IBM Watson Assistant
+# ChatBot Deployment using IBM Watson Assistant (low-code and no-code development)
 
 ## Project Overview
 This project involves deploying a chatbot using IBM Watson Assistant. The chatbot is designed to handle user queries and provide appropriate responses based on the configured intents and entities.
