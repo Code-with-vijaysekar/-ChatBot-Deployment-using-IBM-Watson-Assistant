@@ -33,7 +33,9 @@ This project involves deploying a chatbot using IBM Watson Assistant. The chatbo
 Interact with the chatbot by sending messages through the provided interface. The chatbot will process the input and respond accordingly.
 
 ## Screenshots/Demos
-![Chatbot Interaction](docs/screenshot.png)
+![Chatbot Interaction](![Screenshot (761)](https://github.com/user-attachments/assets/0dcc0a99-b3ac-4e42-9603-08593fe10cc3)
+)https://www.linkedin.com/posts/vijaysekartg_chatbot-ibm-cloudcomputing-activity-7122562969967738880-RmER?utm_source=share&utm_medium=member_desktop!
+
 
 ## Future Work and Improvements
 - Enhance natural language understanding capabilities.
