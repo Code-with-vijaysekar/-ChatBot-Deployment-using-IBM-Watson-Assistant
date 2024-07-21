@@ -1,0 +1,11 @@
+User: Is the course available online or offline?
+Bot: The course is available in both online and offline formats. Which one would you prefer?
+
+User: How many courses are available?
+Bot: We currently offer a total of 10 courses. Would you like information on a specific course?
+
+User: Do you provide courses with industrial experts?
+Bot: Yes, all our courses are taught by experienced industrial experts. Would you like to know more about their backgrounds?
+
+User: When will the courses start?
+Bot: The next batch of courses will start on August 1st. Are you interested in enrolling?
