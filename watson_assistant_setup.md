@@ -21,3 +21,9 @@
    ```bash
    git clone https://github.com/yourusername/ChatBot-Deployment-IBM-Watson.git
    cd ChatBot-Deployment-IBM-Watson
+2. Install dependencies:npm install
+3. Configure environment variables:
+
+Create a .env file with your Watson Assistant API credentials.
+4.Start the application:npm start
+5.Access the chatbot interface at http://localhost:3000.
